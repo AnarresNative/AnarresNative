@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnarresNative
-- 👀 I’m interested in Cybersecurity, Networking and low-level coding primarily based around Python, GO and C++
+- 👀 I’m interested in Cybersecurity, Networking and programming primarily based around Python, GO and C++
 - 📫 How to reach me https://www.linkedin.com/in/louis-debnam/
 
 <!---
